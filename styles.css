@@ -1,0 +1,70 @@
+body {
+    background-color: #1F2937;
+}
+
+.title {
+    margin: 100px 0 0 100px;
+    text-align: left;
+}
+
+.first-line {
+    color: white;
+    font-family: "Karla", sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 40px;
+    letter-spacing: -0.025em;
+    margin: 0;
+}
+
+.second-line {
+    color: #34D399;
+    margin: 0;
+}
+
+.description {
+    font-family: "Karla", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    color: white;
+    margin-top: 10px;
+}
+
+.btn-generate {
+    background-color: #10B981;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 17px;
+}
+
+.line {
+    border-color: grey;
+    margin-top: 35px;
+}
+
+.btn-random-password {
+    margin-top: 25px;
+}
+
+.btn-password {
+    background-color: #273549;
+    width: 211px;
+    top: 396px;
+    left: 52px;
+    border-radius: 6px;
+    border: none;
+    opacity: 0px;
+    color: #55F991;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+}
+
+input { 
+    background-color: #273549;
+    border: none;
+}
